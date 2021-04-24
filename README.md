@@ -1,1 +1,1 @@
-# uri-solutins-in-python
+# uri-solutions-in-python
